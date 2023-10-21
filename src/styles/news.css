@@ -1,0 +1,11 @@
+.popular-recipe-title h3{
+    position: relative;
+    bottom: 5vh;
+    font-family: 'airbnbcereal';
+    font-style: normal;
+    font-weight: 500;
+    line-height: 62px;
+    color: #3F3A3A;
+    border-left: 10px solid #7FDA89;
+    padding-left: 2%;
+}
